@@ -1,7 +1,7 @@
 # Website Travel
 
-![Website Travel ](./img/img)
+![Website Travel ](./img/img.jpg)
 
 Proyecto Website Travel, Desarrollado totalmente para dispositivos móviles
 
--[Website Travel ](https://github.com/jhonpe/travel-website)
+-[Website Travel ](https://jhonpe.github.io/travel-website)
